@@ -17,6 +17,9 @@ Must-watch videos about Django (or about Python as applied to Django)
 * [GoDjango](https://godjango.com/) **Starting with django-allauth**
     * [Video (6:23)](https://godjango.com/65-starting-with-django-allauth/ )
 
+* [GoDjango](https://godjango.com/) **Better Models Through Custom Managers and QuerySets**
+    * [Video (6:42)](https://godjango.com/51-better-models-through-custom-managers-and-querysets/ )
+
 * [Simon Willison](http://blog.simonwillison.net/) **Using Feature Flags**
     * [Video (15:34)](https://www.youtube.com/watch?v=WMRjj06R6jg)
     * [Slides](https://speakerdeck.com/simon/feature-flags/)
