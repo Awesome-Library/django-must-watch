@@ -14,7 +14,10 @@ Must-watch videos about Django (or about Python as applied to Django)
 * Russell Keith-Magee **Django 1.7 Sneak Preview**
     * [Video (58:29)](https://www.youtube.com/watch?v=_DPXgr6m1sg)
 
-* [Mahdi Yusuf](http://neckbeardrepublic.com/) **Django Celery Introduction**
+* Caleb Smith **Django Celery Introduction - more theoretical**
+  * [Video (48:37)](https://www.youtube.com/watch?v=3cyq5DHjymw)
+
+* [Mahdi Yusuf](http://neckbeardrepublic.com/) **Django Celery Introduction - more practical**
     * [Video (18:19)](http://neckbeardrepublic.com/screencasts/django-celery-part-1)
     * [Video (19:18)](http://neckbeardrepublic.com/screencasts/django-celery-part-2)
    
