@@ -1,11 +1,16 @@
 Must-watch videos about Django (or about Python as applied to Django)
 =============
 
+- [2015](#2015)
 - [2014](#2014)
 - [2013](#2013)
 - [2012](#2012)
 - [2011](#2011)
 - [Contributing](#contributing)
+
+##2015
+* James Bennett - **Django in Depth**
+    * [Video (3:01:35)](https://www.youtube.com/watch?v=tkwZ1jG3XgA)
 
 ## 2014
 * Guillaume Ardaud **Cache me if you can: memcached, caching patterns and best practices**
@@ -20,7 +25,7 @@ Must-watch videos about Django (or about Python as applied to Django)
 * [Mahdi Yusuf](http://neckbeardrepublic.com/) **Django Celery Introduction - more practical**
     * [Video (18:19)](http://neckbeardrepublic.com/screencasts/django-celery-part-1)
     * [Video (19:18)](http://neckbeardrepublic.com/screencasts/django-celery-part-2)
-   
+
 * [GoDjango](https://godjango.com/) **Starting with django-allauth**
     * [Video (6:23)](https://godjango.com/65-starting-with-django-allauth/ )
 
