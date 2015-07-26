@@ -13,6 +13,9 @@ Must-watch videos about Django (or about Python as applied to Django)
     * [Video (3:01:35)](https://www.youtube.com/watch?v=tkwZ1jG3XgA)
 
 ## 2014
+* Tom Christie **Tom Christie about Django Rest Framework at Django: Under The Hood**
+  * [Video (54:14](https://www.youtube.com/watch?v=3cSsbe-tA0E)
+
 * Guillaume Ardaud **Cache me if you can: memcached, caching patterns and best practices**
   * [Video (29:44)](https://www.youtube.com/watch?v=R8Xmeynf1T4)
 
